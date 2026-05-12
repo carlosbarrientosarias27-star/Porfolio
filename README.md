@@ -13,7 +13,7 @@ Porfolio/
 │   └── script.js        # Lógica: menú móvil, modal de imágenes, scroll reveal
 ├── .vscode/
 │   └── settings.json    # Configuración de Live Preview
-├── main.html            # Página principal (entry point)
+├── index.html            # Página principal (entry point)
 ├── LICENSE              # MIT License
 └── README.md            # Este archivo
 ```
